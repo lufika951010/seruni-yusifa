@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Seruni Sage - Handmade Scrunchie by Yusifa</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Poppins',sans-serif}
+body{background:#fdfbf7;color:#3a4a3e}
+header{background:#fff;padding:12px 20px;display:flex;justify-content:space-between;align-items:center;box-shadow:0 2px 10px #0001;position:sticky;top:0;z-index:10}
+header img{height:45px}
+.btn-wa{background:#7a9a8e;color:white;padding:10px 20px;border-radius:25px;text-decoration:none;font-weight:600;display:inline-block}
+.hero{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;padding:50px 20px;gap:30px;background:linear-gradient(135deg,#e8efe8 0%,#d4e2d4 100%)}
+.hero-text{max-width:420px;text-align:left}
+.hero-text h1{font-size:34px;line-height:1.2}
+.hero-text h1 span{color:#7a9a8e}
+.hero-text p{margin:15px 0;color:#5a6a5e}
+.hero img{width:310px;border-radius:20px;box-shadow:0 12px 30px #0002}
+.products{padding:50px 20px;text-align:center}
+.products h2{font-size:28px;margin-bottom:10px}
+.grid{display:flex;gap:20px;justify-content:center;flex-wrap:wrap;margin-top:25px}
+.card{background:white;padding:16px;border-radius:18px;width:270px;box-shadow:0 4px 18px #0001;transition:0.3s}
+.card:hover{transform:translateY(-5px)}
+.card img{width:100%;border-radius:14px;height:210px;object-fit:cover}
+.card h3{margin:12px 0 4px}
+.card p{font-size:13px;color:#6b7b6e}
+.price{font-weight:700;color:#7a9a8e;margin-top:8px;font-size:20px}
+footer{text-align:center;padding:30px;background:#2d3a2f;color:#d4e2d4}
+</style>
+</head>
+<body>
+<header>
+<img src="logo.webp" alt="Seruni Sage">
+<a class="btn-wa" href="https://wa.me/6283131913046?text=Halo%20kak%20Yusifa,%20aku%20mau%20pesan%20Seruni%20Sage">WA Yusifa</a>
+</header>
+
+<section class="hero">
+<div class="hero-text">
+<h1>Lembut. Elegan. <span>Natural.</span></h1>
+<p>Scrunchie handmade by Yusifa - Bahan satin premium, jahitan super rapi, warna Sage Green aesthetic yang bikin outfit kamu makin soft.</p>
+<a class="btn-wa" href="https://wa.me/6283131913046?text=Halo%20kak%20Yusifa,%20aku%20mau%20pesan%20Seruni%20Sage%20dong">Chat WA 083131913046</a>
+<p style="margin-top:14px;font-size:13px">📦 Ready Surabaya • COD & Kirim Seluruh Indonesia</p>
+</div>
+<img src="hero-sage.webp" alt="Seruni Sage Hero">
+</section>
+
+<section class="products">
+<h2>Best Seller</h2>
+<p style="color:#7a9a8e">Paling laris minggu ini</p>
+<div class="grid">
+<div class="card">
+<img src="produk-hijau.webp" alt="Paket Trio">
+<h3>Paket Trio Sage</h3>
+<p>Sage, Forest, Cream - 3 pcs hemat!</p>
+<div class="price">Rp 35.000</div>
+</div>
+<div class="card">
+<img src="hero-sage.webp" alt="Sage Premium">
+<h3>Sage Premium</h3>
+<p>Satin lembut, gak bikin rambut rontok</p>
+<div class="price">Rp 15.000</div>
+</div>
+<div class="card">
+<img src="logo.webp" alt="Gift Box">
+<h3>Gift Box Seruni</h3>
+<p>Free box cantik + kartu ucapan</p>
+<div class="price">Rp 45.000</div>
+</div>
+</div>
+<br><br>
+<a class="btn-wa" style="font-size:18px;padding:14px 28px" href="https://wa.me/6283131913046?text=Halo%20kak%20Yusifa,%20aku%20mau%20pesan%20Seruni%20Sage">Pesan Sekarang via WA</a>
+</section>
+
+<footer>
+<p><b>© 2026 Seruni Sage by Yusifa</b></p>
+<p>Handmade with love in tulungagung</p>
+<p style="margin-top:8px">WA: 083131913046 | IG: @seruni.sage</p>
+</footer>
+</body>
+</html>
